@@ -15,8 +15,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/reeta-joshi-36b582174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reeta-joshi" height="30" width="40" /></a>
-<a href="https://instagram.com/reeta0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reeta0220" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png?size=48" alt="vuejs" width="40" height="40"/> </a> <a href="https://bootstrap-vue.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bootstrap-vue/bootstrap-vue/master/static/banner.png" alt="bootstrap-vue" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> </a>
