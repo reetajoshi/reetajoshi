@@ -58,7 +58,6 @@ Most of my work is for companies and sits in private repositories, so here's wha
 
 - **AI search analyzer:** full-stack platform that crawls sites and scores how well they're cited by AI search engines (Next.js/TypeScript, Node, Docker).
 - **Developer CLI (Go):** dump, share and restore MongoDB and ClickHouse databases through S3-compatible storage.
-- **Browser extension:** audits any page for AI-readiness and surfaces which sources AI answers cite.
 - **Builder platforms and templates:** reusable site/app builders powered by JSON templates (Vue/Nuxt).
 - **Admin panels, POS and e-commerce:** 40+ role-based dashboards and storefronts for client businesses.
 
