@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0e75b6,100:8e44ad&text=Reeta%20Joshi&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Vue%20%26%20Nuxt%20%7C%20Haldwani%2C%20India&descAlignY=58&descSize=18" alt="Reeta Joshi banner" />
+<img width="100%" src="banner.svg" alt="Reeta Joshi banner" />
 
 <a href="https://github.com/reetajoshi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Reeta+Joshi;Building+clean+%26+fast+web+apps;Vue+%7C+Nuxt+%7C+TypeScript;Currently+learning+Node.js+%F0%9F%9A%80" alt="Typing animation" />
