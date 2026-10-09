@@ -17,7 +17,7 @@
 
 ## About
 
-Full-stack developer at **[CiteMentor](https://github.com/Citementor)**, building tools that show how AI search engines (ChatGPT, Perplexity, Gemini, Claude) see and cite websites. I've been shipping production software since **2021**: first as a Vue front-end developer, now across the whole stack, from interfaces and APIs to CLIs, browser extensions and databases.
+Full-stack developer at **[CiteMentor](https://github.com/Citementor)**, building tools that show how AI search engines (ChatGPT, Perplexity, Gemini, Claude) see and cite websites. I've been shipping production software since **2021**: first as a Vue front-end developer, now across the whole stack, from interfaces and APIs to CLIs and databases.
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Full-stack developer at **[CiteMentor](https://github.com/Citementor)**, buildin
 
 </div>
 
-Also: Pinia / Vuex, Vuetify, ClickHouse, S3-compatible storage, Chrome extensions (MV3), REST APIs, Postman.
+Also: Pinia / Vuex, Vuetify, ClickHouse, S3-compatible storage, REST APIs, Postman.
 
 ## Journey
 
@@ -50,7 +50,7 @@ Also: Pinia / Vuex, Vuetify, ClickHouse, S3-compatible storage, Chrome extension
 | **2022 – 2023** | Shipped admin panels, e-commerce, marketplace and POS products. Moved into **TypeScript** and **Nuxt**, and built shared component libraries. Personal projects: [Password Manager](https://github.com/reetajoshi/Password-Manager-Frontend). |
 | **2024** | Led front-end delivery across multiple client products. Dashboards, reusable templates, docs sites and CLI tooling. |
 | **2025** | Built website/app **builder platforms** and template systems with **Nuxt, Next.js** and AI-assisted generation. Started working on backend services. |
-| **2026** | Full-stack at **CiteMentor**: AI search visibility analyzer (crawler, scoring, citation tracking), a **Go** CLI for database workflows. |
+| **2026** | Full-stack at **CiteMentor**: AI search visibility analyzer (crawler, scoring, citation tracking) and a **Go** CLI for database workflows. |
 
 ## Selected Work
 
