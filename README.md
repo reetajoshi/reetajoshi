@@ -50,7 +50,7 @@ Also: Pinia / Vuex, Vuetify, ClickHouse, S3-compatible storage, Chrome extension
 | **2022 – 2023** | Shipped admin panels, e-commerce, marketplace and POS products. Moved into **TypeScript** and **Nuxt**, and built shared component libraries. Personal projects: [Password Manager](https://github.com/reetajoshi/Password-Manager-Frontend). |
 | **2024** | Led front-end delivery across multiple client products. Dashboards, reusable templates, docs sites and CLI tooling. |
 | **2025** | Built website/app **builder platforms** and template systems with **Nuxt, Next.js** and AI-assisted generation. Started working on backend services. |
-| **2026** | Full-stack at **CiteMentor**: AI search visibility analyzer (crawler, scoring, citation tracking), a **Go** CLI for database workflows, and a **Chrome extension** in TypeScript. |
+| **2026** | Full-stack at **CiteMentor**: AI search visibility analyzer (crawler, scoring, citation tracking), a **Go** CLI for database workflows. |
 
 ## Selected Work
 
