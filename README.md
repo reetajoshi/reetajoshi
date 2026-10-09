@@ -1,89 +1,82 @@
-<!-- Header banner -->
 <div align="center">
 
-<img width="100%" src="banner.svg" alt="Reeta Joshi banner" />
+<img width="100%" src="banner.svg" alt="Reeta Joshi - Full-Stack Developer" />
 
 <a href="https://github.com/reetajoshi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Reeta+Joshi;Building+clean+%26+fast+web+apps;Vue+%7C+Nuxt+%7C+TypeScript;Currently+learning+Node.js+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Full-stack+developer+since+2021;Vue+%7C+Nuxt+%7C+TypeScript+%7C+Node+%7C+Go;Currently+building+at+CiteMentor" alt="Typing animation" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/reeta-joshi-36b582174/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:reetajoshi949@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/reetajoshi?tab=followers"><img src="https://img.shields.io/github/followers/reetajoshi?style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=reetajoshi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a **web developer and Computer Science student** from **Haldwani, Uttarakhand, India**, working at **Nipige**. I enjoy turning ideas into polished, responsive interfaces and well-structured front-end code.
+Full-stack developer at **[CiteMentor](https://github.com/Citementor)**, building tools that show how AI search engines (ChatGPT, Perplexity, Gemini, Claude) see and cite websites. I've been shipping production software since **2021**: first as a Vue front-end developer, now across the whole stack, from interfaces and APIs to CLIs, browser extensions and databases.
+
+<div align="center">
+
+![Since](https://img.shields.io/badge/Shipping_since-2021-0e75b6?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-6,800%2B-8e44ad?style=flat-square)
+![Projects](https://img.shields.io/badge/Production_projects-70%2B-0e75b6?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Uttarakhand%2C_India-8e44ad?style=flat-square)
+
+</div>
+
+## Tech Stack
+
+<div align="center">
 
 | | |
 |---|---|
-| 🔭 **Working on** | Password manager (Vue/TypeScript frontend + backend) |
-| 🌱 **Learning** | Node.js and backend development |
-| 💬 **Ask me about** | Vue.js, Nuxt.js, Vuex, Pinia, Vuetify, Bootstrap Vue, TypeScript, JavaScript, HTML & CSS |
-| 📍 **Based in** | Haldwani, Uttarakhand, India |
-| 📫 **Reach me** | [reetajoshi949@gmail.com](mailto:reetajoshi949@gmail.com) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,bootstrap,tailwind&perline=8" alt="Frontend skills" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=8" alt="Backend skills" />
-
-**Languages & Tools**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,postman,vscode&perline=8" alt="Languages and tools" />
+| **Frontend** | <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,ts,js,html,css,tailwind,bootstrap" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,go,python" alt="Backend" /> |
+| **Data & Infra** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,git" alt="Data and infra" /> |
 
 </div>
 
----
+Also: Pinia / Vuex, Vuetify, ClickHouse, S3-compatible storage, Chrome extensions (MV3), REST APIs, Postman.
 
-## 🚀 Featured Projects
+## Journey
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Password Manager – Frontend**](https://github.com/reetajoshi/Password-Manager-Frontend) | Client app for securely storing and managing passwords | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**Password Manager – Backend**](https://github.com/reetajoshi/Password_Manager_Backend) | API powering the password manager | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| [**VueSprint**](https://github.com/reetajoshi/VueSprint) | Vue.js project | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) |
+| Year | What I worked on |
+|---|---|
+| **2021** | Started at Nipige (Trigital Tech). Built production web apps in **Vue.js**: customer portals and web apps. |
+| **2022 – 2023** | Shipped admin panels, e-commerce, marketplace and POS products. Moved into **TypeScript** and **Nuxt**, and built shared component libraries. Personal projects: [Password Manager](https://github.com/reetajoshi/Password-Manager-Frontend). |
+| **2024** | Led front-end delivery across multiple client products. Dashboards, reusable templates, docs sites and CLI tooling. |
+| **2025** | Built website/app **builder platforms** and template systems with **Nuxt, Next.js** and AI-assisted generation. Started working on backend services. |
+| **2026** | Full-stack at **CiteMentor**: AI search visibility analyzer (crawler, scoring, citation tracking), a **Go** CLI for database workflows, and a **Chrome extension** in TypeScript. |
 
-> 💡 More on my [repositories page](https://github.com/reetajoshi?tab=repositories).
+## Selected Work
 
----
+Most of my work is for companies and sits in private repositories, so here's what it covers:
 
-## 📊 GitHub Stats
+- **AI search analyzer:** full-stack platform that crawls sites and scores how well they're cited by AI search engines (Next.js/TypeScript, Node, Docker).
+- **Developer CLI (Go):** dump, share and restore MongoDB and ClickHouse databases through S3-compatible storage.
+- **Browser extension:** audits any page for AI-readiness and surfaces which sources AI answers cite.
+- **Builder platforms and templates:** reusable site/app builders powered by JSON templates (Vue/Nuxt).
+- **Admin panels, POS and e-commerce:** 40+ role-based dashboards and storefronts for client businesses.
+
+**Public projects**
+
+| Project | Stack |
+|---|---|
+| [Password Manager: Frontend](https://github.com/reetajoshi/Password-Manager-Frontend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [Password Manager: Backend](https://github.com/reetajoshi/Password_Manager_Backend) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [VueSprint](https://github.com/reetajoshi/VueSprint) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) |
+
+## Let's Connect
+
+Open to conversations about full-stack work, Vue/Nuxt, or building AI-era products.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=reetajoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reetajoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **collaborations, freelance work and new opportunities**. Whether it's a project idea, a question about Vue/Nuxt, or just a hello, my inbox is open.
-
-<div align="center">
-
-<a href="mailto:reetajoshi949@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-reetajoshi949%40gmail.com-0e75b6?style=for-the-badge" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/reeta-joshi-36b582174/"><img src="https://img.shields.io/badge/💼_Message_on-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8e44ad,100:0e75b6&section=footer" alt="footer" />
+<a href="mailto:reetajoshi949@gmail.com"><img src="https://img.shields.io/badge/Email-reetajoshi949%40gmail.com-0e75b6?style=for-the-badge" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/reeta-joshi-36b582174/"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
 </div>
